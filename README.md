@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🐕
+meu nome é Dmenor
 
-<!--
-**cauaaraujo333/cauaaraujo333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando o [Alura]
+- Estou desenvolvendo na linguagem javascript
+- Ultilizo esse espaço para organizar meu projeto
 
-Here are some ideas to get you started:
+- ### voce pode entrar em contato comigo
+- cauaaraujo274@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- @Dmenor
+
+ ![](https://media1.tenor.com/m/CMjmRuV1WPUAAAAC/models-model.gif)
